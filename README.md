@@ -131,4 +131,4 @@ The A* algorithm serves as a cornerstone in the BruinTour system's `Router` clas
 
 For implementation details of the Router class and A* algorithm, please refer to the source code in the repository.
 
-This Program Was Made For UCLA CS 32 Project 4
+This Program Was Made For UCLA CS 32 Project 4 Taught by David Smallberg and Carey Nachenberg for the Winter 2024 Quarter
