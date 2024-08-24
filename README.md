@@ -130,5 +130,3 @@ In the BruinTour system, the A* algorithm is implemented within the `Router` cla
 The A* algorithm serves as a cornerstone in the BruinTour system's `Router` class, offering an efficient and optimal solution for route computation. By leveraging A*, the system ensures smooth navigation for tour robots, enhancing the overall tour experience for visitors exploring UCLA and Westwood.
 
 For implementation details of the Router class and A* algorithm, please refer to the source code in the repository.
-
-This Program Was Made For UCLA CS 32 Project 4 Taught by David Smallberg and Carey Nachenberg for the Winter 2024 Quarter
